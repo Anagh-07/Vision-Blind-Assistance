@@ -1,0 +1,19 @@
+
+pytesseract
+torch  #  PyTorch
+pyttsx3
+numpy==1.19.2  # Ensure compatibility with TensorFlow 2.4.1
+tensorflow==2.4.1  
+python-engineio
+matplotlib
+opencv-python 
+# protobuf==3.0.0 
+# python-tk   
+# Pillow  
+lxml
+tf-slim
+slim
+notebook  # C Jupyter Notebook
+Cython
+contextlib2
+pycocotools  # COCO API which is used for handling COCO annotations and evaluation.
